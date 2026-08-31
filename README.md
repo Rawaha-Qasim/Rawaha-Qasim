@@ -61,6 +61,16 @@ I love combining AI with practical software solutions — from smart apps to ful
 
 <br>
 
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rawaha-Qasim/Rawaha-Qasim/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 ## 🎯 Current Focus
 
 | 🔥 Currently Learning | 🧭 Exploring |
